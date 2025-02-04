@@ -14,7 +14,7 @@ Hi! I'm Abed Ali Imran, a passionate Frontend Developer who loves building inter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RMABID)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rm-abed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/r.m.imran.53983)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rmabid.vercel.app)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RMABID)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RMABID)](https://github.com/anuraghazra/github-readme-stats)
 
