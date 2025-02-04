@@ -1,72 +1,28 @@
-<div align="center">
-  <img height="150" src="[https://i.ibb.co.com/VwMy8cq/Picsart-25-01-08-16-18-47-841.jpg](https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/470873043_952942363357616_7774636379510234315_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE-B1ObnaLVD5lG9BYwKZgN0hxqDjk40MnSHGoOOTjQySiXv89oEGFJ64HSsFZA6gVXosZfeY2pWAU_Fuf8_um3&_nc_ohc=7fV-k3DPnc4Q7kNvgH--Z_h&_nc_oc=AdgBFOsvfrufGMkWjFF_58k5kZkgYuEWigv37VrGWM-60MWIYJ1390Nuln0AFjsFpGA&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=AKbjikV5-Py2_hiNm_esaAz&oh=00_AYDvby4ndQYPLcTR6nmoSgF2aP-HCO0-wIf7HNCxWs7wnA&oe=67A7C5AB)"  />
-</div>
+### Hi there 👋, I'm Abed Ali Imran
+#### Web Developer 
+![Web Developer ](https://media.licdn.com/dms/image/v2/D5616AQEi6ILVWrZG7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738665100655?e=1744243200&v=beta&t=IFsYan72bCrV8AbiN1mAcbj1-LoUrokR385XSrVf8Lc)
 
-###
+Hi! I'm Abed Ali Imran, a passionate Frontend Developer who loves building interactive, user-friendly web applications. My main tech stack includes React.js, Next.js, Node.js, Firebase, MongoDB, and Tailwind CSS. I enjoy solving complex problems and transforming ideas into functional, visually appealing web experiences. Always eager to learn and grow, I stay up-to-date with the latest technologies to improve my skills.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/moshiur-islam28/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+8801327023639" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+## Skills:
+<div align="left">   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />   <img width="12" />   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />   <img width="12" />   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />   <img width="12" />   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />   <img width="12" />   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />   <img width="12" />   <img width="12" />   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />   <img width="12" />   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  /> </div>
 
-###
-
-<h1 align="left">Hi👋 I am Abid </h1>
-
-###
-
-<p align="left">Front-End Developer</p>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi! I'm Abed Ali Imran, a passionate front-end developer currently pursuing my diploma. I enjoy building interactive, user-friendly web applications and solving complex problems. My core tech stack includes React, Firebase, and MongoDB, and I’m always eager to learn and improve my skills.</p>
-
-###
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development  
 
 
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RMABID)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rm-abed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/r.m.imran.53983)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rmabid.vercel.app)  
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RMABID)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RMABID)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning front-end development, focusing on mastering React.<br>🎯 Goals: To build impactful and interactive web applications, contribute to open-source projects, and continuously improve my coding skills.<br>🎲 Fun fact: I love playing video games, and my favorite one is free fire. It inspires me to think critically and creatively while coding.</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RMABID&show_icons=true&count_private=true)  
 
-###
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/RMABID/contributions?format=svg&private=true)  
 
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/RMABID)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/RMABID)  
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moshiur-15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
