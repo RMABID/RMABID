@@ -16,11 +16,12 @@ Hi! I'm Abed Ali Imran, a passionate Frontend Developer who loves building inter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RMABID)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moshiur-15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RMABID&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/RMABID/contributions?format=svg&private=true)  
+###
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/RMABID)  
 
