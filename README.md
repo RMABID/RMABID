@@ -33,11 +33,16 @@ I am always **eager to learn** and stay up-to-date with the latest technologies 
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMABID&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMABID&theme=radical" alt="GitHub Streak" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RMABID&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMABID&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RMABID&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Languages Graph" />
@@ -60,4 +65,3 @@ I am always **eager to learn** and stay up-to-date with the latest technologies 
 ---
 
 ⭐ **Let's connect and build something amazing together!** 🚀  
-
