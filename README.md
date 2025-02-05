@@ -35,12 +35,15 @@ I am always **eager to learn** and stay up-to-date with the latest technologies 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RMABID&show_icons=true&theme=radical)  
 
+ 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RMABID&theme=radical)
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RMABID&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Languages Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMABID&radius=16&theme=react&area=true" height="300" alt="Activity Graph" />
-</div>  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RMABID&theme=radical)
+</div> 
 
 ![GitHub Metrics](https://github.com/RMABID/github-metrics)
 
