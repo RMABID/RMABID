@@ -33,11 +33,13 @@ I am always **eager to learn** and stay up-to-date with the latest technologies 
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RMABID&show_icons=true&theme=radical)  
+<div align="center" >
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RMABID&show_icons=true&theme=radical)  
 
  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RMABID&theme=radical)
+</div>
 
 
 <div align="center">
